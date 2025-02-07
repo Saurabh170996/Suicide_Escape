@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 
 ## Installation
 
-To play the game, you can visit the live site at https://killman.netlify.app/. If you want to play the game locally, you can follow these steps:
+To play the game, you can visit the live site at https://suicide-escape.netlify.app/. If you want to play the game locally, you can follow these steps:
 
 1. Clone the repo
 2. Run `npm install` to install dependencies
